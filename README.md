@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Koicat-codes
 - 👀 I’m interested in art, read, music, and coding
-- 🌱 I’m currently learning JS, CSS, HTML
+- 🌱 I’m currently learning JS, CSS, HTML, and SQL
 - 💞️ I’m looking to collaborate on I don't really know yet
 - 📫 How to reach me ...
 
